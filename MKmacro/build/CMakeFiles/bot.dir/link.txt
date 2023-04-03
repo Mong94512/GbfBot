@@ -1,3 +1,0 @@
-C:\Dev\cmake\bin\cmake.exe -E rm -f CMakeFiles\bot.dir/objects.a
-C:\Dev\mingw64\bin\ar.exe qc CMakeFiles\bot.dir/objects.a @CMakeFiles\bot.dir\objects1.rsp
-C:\Dev\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\bot.dir/objects.a -Wl,--no-whole-archive -o bot.exe -Wl,--out-implib,libbot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bot.dir\linkLibs.rsp
