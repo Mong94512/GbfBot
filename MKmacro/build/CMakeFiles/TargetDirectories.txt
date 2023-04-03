@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/Cpp/Code/MKmacro/build/CMakeFiles/bot.dir
+C:/Users/Lenovo/Documents/Cpp/Code/MKmacro/build/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/Cpp/Code/MKmacro/build/CMakeFiles/rebuild_cache.dir
